@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "ae-finley-ymca",
+    "name": "A.E. Finley YMCA",
+    "city": "Raleigh",
+    "address": "9216 Baileywick Rd., Raleigh, NC 27615",
+    "phone": "919-848-9622",
+    "url": "https://ymcatriangle.org/locations/ae-finley-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/ae-finley-ymca/ae-finley-ymca-hours-operation",
+    "amenities": [
+      "Athletic Fields",
+      "Basketball Courts",
+      "Cycle Studio",
+      "Free Weights",
+      "Gymnasium",
+      "Indoor Pickleball Courts",
+      "Indoor Pool",
+      "Indoor Track",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Outdoor Pool",
+      "Outdoor Waterslide",
+      "Personal Trainers",
+      "Sauna",
+      "Steam Room",
+      "Strength/Cardio Equipment",
+      "Toddler Pool"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 9 p.m.",
+          "Friday: 5 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: 9 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks to 11 years",
+          "Monday - Thursday: 8:15 a.m. - 1 p.m. & 4:30 - 7:30 p.m.",
+          "Friday: 8:15 a.m. - 1 p.m.",
+          "Saturday: 7:45 a.m. - 12:30 p.m.",
+          "Sunday: 9:15 a.m. - 4 p.m."
+        ]
+      },
+      {
+        "title": "Indoor Pool",
+        "lines": [
+          "The indoor pool hours match the branch hours above, except that the pool closes 15 minutes earlier. Please plan your swim time accordingly."
+        ]
+      },
+      {
+        "title": "Outdoor Pool",
+        "lines": [
+          "October 2026",
+          "Mon./Wed./Fri.: Closed",
+          "Tue./Thu.: 10 a.m. - 2 p.m.",
+          "Saturday*: 11 a.m. - 4 p.m.",
+          "Sunday: 12 - 5 p.m.",
+          "*Saturdays and holidays (Memorial Day, Juneteenth, Independence Day and Labor Day) are association member-only days at outdoor pools. Guests and nationwide member visitors are welcome on non-holiday weekdays and Sundays."
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": true,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "alexander-family-ymca",
+    "name": "Alexander Family YMCA",
+    "city": "Raleigh",
+    "address": "1603 Hillsborough St., Raleigh, NC 27605",
+    "phone": "919-832-9622",
+    "url": "https://ymcatriangle.org/locations/alexander-family-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/alexander-family-ymca/alexander-family-ymca-hours-operation",
+    "amenities": [
+      "Basketball Courts",
+      "Cycle Studio",
+      "Free Weights",
+      "Gymnasium",
+      "Indoor Pickleball Courts",
+      "Indoor Pool",
+      "Indoor Track",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "On Demand",
+      "Personal Trainers",
+      "Racquetball Courts",
+      "Sauna",
+      "Steam Room",
+      "Strength/Cardio Equipment"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 10 p.m.",
+          "Friday: 5 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: 9 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Indoor Pool",
+        "lines": [
+          "The indoor pool closes 15 minutes before the building closes. Please plan your swim time accordingly."
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "6 weeks - 10 years",
+          "Monday - Friday morning: 8:30 a.m. - 1 p.m.",
+          "Monday - Thursday evening: 4 p.m. - 7:30 p.m.",
+          "Saturday morning: 8:15 a.m. - 1:30 p.m.",
+          "Sunday morning: 10: a.m. - 4 p.m."
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": true,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "chapel-hill-carrboro-ymca",
+    "name": "Chapel Hill - Carrboro YMCA",
+    "city": "Chapel Hill",
+    "address": "980 Martin Luther King Jr. Blvd., Chapel Hill, NC 27514",
+    "phone": "919-442-9622",
+    "url": "https://ymcatriangle.org/locations/chapel-hill-carrboro-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/chapel-hill-carrboro-ymca/chapel-hill-carrboro-ymca-hours-operation",
+    "amenities": [
+      "Basketball Courts",
+      "Cycle Studio",
+      "Free Weights",
+      "Group Fitness",
+      "Gymnasium",
+      "Indoor Pickleball Courts",
+      "Indoor Pool",
+      "Indoor Track",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "Personal Trainers",
+      "Racquetball Courts",
+      "Sauna",
+      "Steam Room",
+      "Strength/Cardio Equipment"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 9 p.m.",
+          "Friday: 5 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: 11 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Indoor Pool (Lap Swimming)",
+        "lines": [
+          "See lane counts in our pool schedules",
+          "Indoor pool hours match the branch hours above, except that the pool closes 15 minutes earlier. Please plan your swim time accordingly."
+        ]
+      },
+      {
+        "title": "Indoor Pool (Family Swim)",
+        "lines": [
+          "Saturday: 1:30 - 5:45 p.m. (3 lanes)",
+          "Sunday: 1 - 5:45 p.m. (2 lanes)"
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks to 8 years",
+          "Monday: 9 a.m. - 1 p.m.",
+          "Tuesday & Thursday: 5 - 8 p.m.",
+          "Wednesday, Friday & Sunday: Closed",
+          "Saturday: 7 a.m. - noon"
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": true,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "chatham-park-ymca",
+    "name": "Chatham Park YMCA",
+    "city": "Pittsboro",
+    "address": "120 Parkland Dr., Pittsboro, NC 27312",
+    "phone": "919-545-9622",
+    "url": "https://ymcatriangle.org/locations/chatham-park-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/chatham-park-ymca/chatham-park-ymca-hours-operation",
+    "amenities": [
+      "Airnasium",
+      "Basketball Courts",
+      "Free Weights",
+      "Gymnasium",
+      "Indoor Pickleball Courts",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "On Demand",
+      "Outdoor Pickleball Courts",
+      "Outdoor Pool",
+      "Outdoor Waterslide",
+      "Personal Trainers",
+      "Strength/Cardio Equipment"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 9 p.m.",
+          "Friday: 5 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: 11 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks - 11 years",
+          "Fall 2026",
+          "Monday - Thursday: 8:45 a.m. - 12 p.m. & 4:45 - 7:30 p.m.",
+          "Friday: 8:45 a.m. - 12 p.m.",
+          "Saturday: 7:45 a.m. - 12 p.m.",
+          "Sunday: 11:15 a.m. - 3 p.m."
+        ]
+      },
+      {
+        "title": "Outdoor Pool",
+        "lines": [
+          "September 8 - October 25",
+          "All check-ins will occur indoors at the primary access desk.",
+          "Monday/Wednesday/Friday",
+          "Lap Swim 6 - 10:30 a.m. & 12 - 7:30 p.m.",
+          "Tuesday/Thursday",
+          "Lap Swim 12 - 7:30 p.m.",
+          "Saturday",
+          "Lap Swim 9 a.m. - 2 p.m.",
+          "Sunday",
+          "Lap Swim 11:30 a.m. - 4 p.m."
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": false,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "downtown-durham-ymca",
+    "name": "Downtown Durham YMCA",
+    "city": "Durham",
+    "address": "218 W. Morgan St., Durham, NC 27701",
+    "phone": "919-667-9622",
+    "url": "https://ymcatriangle.org/locations/downtown-durham-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/downtown-durham-ymca/downtown-durham-hours-operation",
+    "amenities": [
+      "Basketball Courts",
+      "Cycle Studio",
+      "Free Weights",
+      "Gymnasium",
+      "Indoor Pickleball Courts",
+      "Indoor Pool",
+      "Indoor Track",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "On Demand",
+      "Personal Trainers",
+      "Sauna",
+      "Steam Room",
+      "Strength/Cardio Equipment"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 9 p.m.",
+          "Friday: 5 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: Noon - 6 p.m."
+        ]
+      },
+      {
+        "title": "Lap Pool",
+        "lines": [
+          "Monday: 5 a.m. - 8:30 p.m. (closed 3:45 - 5:30 p.m. for swim team)",
+          "Tuesday: 5 a.m. - 8:30 p.m. (closed 3:45 - 5:30 p.m. for swim team)",
+          "Wednesday: 5 a.m. - 8:30 p.m. (closed 3:45 - 5:15 p.m. for swim team)",
+          "Thursday: 5 a.m. - 8:30 p.m. (closed 3:45 - 5:30 p.m. for swim team)",
+          "Friday: 5 a.m. - 7:30 p.m. (closed 3:45 - 5:30 p.m. for swim team)",
+          "Saturday: 7 a.m. - 5:30 p.m.",
+          "Sunday: Noon - 5:30 p.m."
+        ]
+      },
+      {
+        "title": "Training/Play Pool",
+        "lines": [
+          "Monday: 5 a.m. - 8:30 p.m. (closed 5:15 - 7:05 p.m. for swim lessons)",
+          "Tuesday: 5 a.m. - 8:30 p.m.",
+          "Wednesday: 5 a.m. - 8:30 p.m. (closed 5:15 - 7:05 p.m. for swim lessons)",
+          "Thursday: 5 a.m. - 8:30 p.m.",
+          "Friday: 5 a.m. - 7:30 p.m.",
+          "Saturday: 7 a.m. - 5:30 p.m. (closed 9 - 11:45 a.m. for swim lessons)",
+          "Sunday: Noon - 5:30 p.m."
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks to 11 years",
+          "*KZ is also hosted at the Lakewood & Hope Valley Farms YMCAs",
+          "Fall Hours (beginning August 28)",
+          "Monday - Thursday: 4:45 - 8 p.m.",
+          "Friday: Closed",
+          "Saturday: 7:45 a.m. - 12 p.m.",
+          "Sunday: 12 - 4 p.m."
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": true,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "east-triangle-ymca",
+    "name": "East Triangle YMCA",
+    "city": "Clayton",
+    "address": "120 Flowers Pkwy, Clayton, NC 27527",
+    "phone": "919-262-0440",
+    "url": "https://ymcatriangle.org/locations/east-triangle-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/east-triangle-ymca/east-triangle-ymca-hours-operation",
+    "amenities": [
+      "Athletic Fields",
+      "Basketball Courts",
+      "Cycle Studio",
+      "Free Weights",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Outdoor Pickleball Courts",
+      "Outdoor Pool",
+      "Outdoor Waterslide",
+      "Personal Trainers",
+      "Sauna",
+      "Strength/Cardio Equipment",
+      "Toddler Pool"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 9 p.m.",
+          "Friday: 5 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: 11 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks to 10 years",
+          "Monday - Friday: 7:45 a.m. - 1 p.m.",
+          "Monday - Thursday: 4:30 - 8 p.m.",
+          "Saturday: 7:45 a.m. - 1 p.m.",
+          "Sunday: Noon - 4 p.m."
+        ]
+      },
+      {
+        "title": "Outdoor Pool",
+        "lines": [
+          "Monday - Friday: 8 a.m. - 1 p.m. and 4 - 7 p.m.",
+          "Saturday - Sunday: 11 a.m. - 6 p.m.",
+          "*The pool will be closed on Sundays after Labor Day (Sept. 7)"
+        ],
+        "warning": "Sunday pool closure after Labor Day overrides the general weekend hours below."
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": false,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "hope-valley-farms-ymca",
+    "name": "Hope Valley Farms YMCA",
+    "city": "Durham",
+    "address": "4818 S. Roxboro St., Durham, NC 27713",
+    "phone": "919-401-9621",
+    "url": "https://ymcatriangle.org/locations/hope-valley-farms-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/hope-valley-farms-ymca/hope-valley-farms-ymca-hours-operation",
+    "amenities": [
+      "Athletic Fields",
+      "Free Weights",
+      "Kettlebells",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "On Demand",
+      "Outdoor Pool",
+      "Personal Trainers",
+      "Strength/Cardio Equipment",
+      "Tennis Courts"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 6 a.m. - 8 p.m.",
+          "Friday: 6 a.m. - 5 p.m.",
+          "Saturday: 8 a.m. - 12 p.m.",
+          "Sunday: 1 - 5 p.m."
+        ]
+      },
+      {
+        "title": "Outdoor Pool",
+        "lines": [
+          "August 22 - September 6",
+          "Monday - Friday: Closed",
+          "Saturday*: 1 - 7:50 p.m.",
+          "Sunday: 12 - 5:50 p.m.",
+          "Labor Day, Monday*, September 7",
+          "Open 10 a.m. - 6 p.m. (indoor facilities closed)",
+          "*Saturdays and holidays (Memorial/Independence/Labor Days) are member-only days for Durham and YMCA of the Triangle members. Guests are welcome on Sundays and non-holiday weekdays."
+        ],
+        "warning": "Expired seasonal schedule. Current pool hours are not confirmed; check the official page before visiting."
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks to 5 years",
+          "Monday - Saturday: 9 a.m. - 12 p.m.",
+          "Sunday: Closed"
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": false,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "ingram-family-ymca",
+    "name": "Ingram Family YMCA",
+    "city": "Sanford",
+    "address": "1907 K M Wicker Memorial Drive, Sanford, NC 27330",
+    "phone": "919-777-9622",
+    "url": "https://ymcatriangle.org/locations/ingram-family-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/ingram-family-ymca/ingram-family-ymca-hours-operations",
+    "amenities": [
+      "Free Weights",
+      "Strength/Cardio Equipment",
+      "Indoor Pool",
+      "Personal Trainers",
+      "Kid Zone",
+      "Kettlebells",
+      "Locker Rooms"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Friday: 6 a.m. - 8 p.m.",
+          "Saturday: 8 a.m. - 3 p.m.",
+          "Sunday: 1 - 5 p.m."
+        ]
+      },
+      {
+        "title": "Indoor Pool",
+        "lines": [
+          "Monday - Friday: 6 a.m. - 1 p.m. & 4 - 7 p.m.",
+          "Saturday: 8 a.m. - 2:30 p.m.",
+          "Sunday:1 - 4:30 p.m."
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks to 11 years",
+          "Monday - Thursday:8:30 - 11 a.m. & 4:30 - 7:15 p.m.",
+          "Friday: 8:30 - 11 a.m.",
+          "Saturday: 8:45 - 11:45 a.m. (1.5-hour visit limit)",
+          "Sunday: 1:30 - 3:30 p.m."
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": true,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "kerr-family-ymca",
+    "name": "Kerr Family YMCA",
+    "city": "Raleigh",
+    "address": "2500 Wakefield Pines Dr., Raleigh, NC 27614",
+    "phone": "919-562-9622",
+    "url": "https://ymcatriangle.org/locations/kerr-family-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/kerr-family-ymca/kerr-family-ymca-hours-operation",
+    "amenities": [
+      "Basketball Courts",
+      "Cycle Studio",
+      "Free Weights",
+      "Gymnasium",
+      "Indoor Pickleball Courts",
+      "Indoor Pool",
+      "Indoor Track",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "Outdoor Pool",
+      "Outdoor Waterslide",
+      "Personal Trainers",
+      "Racquetball Courts",
+      "Sauna",
+      "Strength/Cardio Equipment",
+      "Toddler Pool"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 9 p.m.",
+          "Friday: 5 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: 11 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks - 11 years",
+          "Monday - Thursday: 8 a.m. - 1 p.m. & 4:30 - 8 p.m.",
+          "Friday: 8 a.m. - 1 p.m.",
+          "Saturday: 7:45 a.m. - 12 p.m.",
+          "Sunday: 11 a.m. - 4 p.m."
+        ]
+      },
+      {
+        "title": "Indoor Pool Lap Swim",
+        "lines": [
+          "See lane counts in our pool schedules.",
+          "Monday - Thursday: 5 a.m. - 8:45 p.m.",
+          "Friday: 5 a.m. - 7:45 p.m.",
+          "Saturday: 7 a.m. - 5:45 p.m.",
+          "Sunday: 11 a.m. - 5:45 p.m."
+        ]
+      },
+      {
+        "title": "Indoor Play Pool & Family Swim",
+        "lines": [
+          "Mon./Wed./Fri: 4 - 6 p.m.",
+          "Tue./Wed./Thu.: 11 a.m. - 2 p.m.",
+          "Sat. & Sun.: 12 - 4 p.m."
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": true,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "kraft-family-ymca",
+    "name": "Kraft Family YMCA",
+    "city": "Apex",
+    "address": "8921 Holly Springs Rd., Apex, NC 27539",
+    "phone": "919-657-9622",
+    "url": "https://ymcatriangle.org/locations/kraft-family-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/kraft-family-ymca/kraft-family-ymca-hours-operation",
+    "amenities": [
+      "Athletic Fields",
+      "Basketball Courts",
+      "Cycle Studio",
+      "Free Weights",
+      "Group Fitness",
+      "Gymnasium",
+      "Indoor Pickleball Courts",
+      "Indoor Track",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "On Demand",
+      "Outdoor Pool",
+      "Outdoor Waterslide",
+      "Personal Trainers",
+      "Sauna",
+      "Strength/Cardio Equipment",
+      "Toddler Pool"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 9 p.m.",
+          "Friday: 5 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: 9 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Outdoor Pool",
+        "lines": [
+          "POST-SEASON HOURS: SEPT. 14 - 27",
+          "Lap Swim Only:",
+          "Monday/Wednesday/Friday: 7 \u2013 10 a.m.",
+          "Combined Family and Lap Swim:",
+          "Monday/Wednesday/Friday: 4 \u2013 7 p.m.",
+          "Saturday and Sunday: Noon \u2013 5 p.m.",
+          "*Our Toddler Pool and Slide availability are dictated by pool safety needs.",
+          "Saturdays and holidays are reserved for members only at the outdoor pool. Guests are welcome Sundays and non-holiday weekdays."
+        ],
+        "warning": "Expired seasonal schedule. Current pool hours are not confirmed; check the official page before visiting."
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks - 11 years",
+          "Monday - Friday mornings: 8:45 a.m. - 1 p.m.",
+          "Monday - Thursday evenings: 4:30 - 7:45 p.m.",
+          "Saturday: 8 a.m. - 1 p.m.",
+          "Sunday: 11 a.m. - 4:30 p.m."
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": false,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "lakewood-ymca",
+    "name": "Lakewood YMCA",
+    "city": "Durham",
+    "address": "2119 Chapel Hill Rd., Durham, NC 27707",
+    "phone": "919-401-9622",
+    "url": "https://ymcatriangle.org/locations/lakewood-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/lakewood-ymca/lakewood-ymca-hours-operation-0",
+    "amenities": [
+      "Free Weights",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "On Demand",
+      "Personal Trainers",
+      "Racquetball Courts",
+      "Sauna",
+      "Steam Room",
+      "Strength/Cardio Equipment"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Friday: 6 a.m. - 8 p.m.",
+          "Saturday: 8 a.m. - 5 p.m.",
+          "Sunday: 1 - 5 p.m."
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks to 5 years",
+          "Monday - Thursday: 9 a.m. - Noon & 5 - 8 p.m.",
+          "Friday & Saturday: 9 a.m. - Noon"
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": false,
+    "hasPool": false,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "northwest-cary-ymca",
+    "name": "Northwest Cary YMCA",
+    "city": "Cary",
+    "address": "6903 Carpenter Fire Station Road, Cary, NC 27519",
+    "phone": "984-255-2409",
+    "url": "https://ymcatriangle.org/locations/northwest-cary-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/northwest-cary-ymca/northwest-cary-ymca-hours-operation",
+    "amenities": [
+      "Athletic Fields",
+      "Basketball Courts",
+      "Cycle Studio",
+      "Free Weights",
+      "Indoor Pickleball Courts",
+      "Indoor Track",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "Outdoor Pool",
+      "Personal Trainers",
+      "Sauna",
+      "Steam Room",
+      "Strength/Cardio Equipment"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 10 p.m.",
+          "Friday: 5 a.m. - 9 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: Noon - 6 p.m."
+        ]
+      },
+      {
+        "title": "Outdoor Pool Lap Swim",
+        "lines": [
+          "Monday - Friday: 5:30 a.m. - 8:30 p.m.",
+          "Saturday: 8 a.m. - 5:30 p.m.",
+          "Sunday: 1- 5:30 p.m."
+        ]
+      },
+      {
+        "title": "Recreational Pool",
+        "lines": [
+          "Closed for the season",
+          "Saturdays and holidays are reserved for members only at the pool. Guests are welcome on Sundays and weekdays."
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks - 11 years",
+          "Monday - Thursday: 8:45 a.m. - 1 p.m. & 4:45 - 8 p.m.",
+          "Friday: 8:45 a.m. - 1 p.m.",
+          "Saturday: 8:45 a.m. - Noon",
+          "Sunday: 1 - 5 p.m."
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": false,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "poole-family-ymca",
+    "name": "Poole Family YMCA",
+    "city": "Garner",
+    "address": "2110 Aversboro Road, Garner, NC 27529",
+    "phone": "919-582-9622",
+    "url": "https://ymcatriangle.org/locations/poole-family-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/poole-family-ymca/poole-family-ymca-hours-operation",
+    "amenities": [
+      "Athletic Fields",
+      "Basketball Courts",
+      "Cycle Studio",
+      "Free Weights",
+      "Gymnasium",
+      "Indoor Pickleball Courts",
+      "Indoor Track",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "On Demand",
+      "Outdoor Pool",
+      "Outdoor Waterslide",
+      "Personal Trainers",
+      "Sauna",
+      "Splash Pad",
+      "Strength/Cardio Equipment",
+      "Toddler Pool"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Mon - Thu: 5 a.m. - 9 p.m.",
+          "Fri: 5 a.m. - 8 p.m.",
+          "Sat: 7 a.m. - 6 p.m.",
+          "Sun: 11 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Kid Zone Care (Ages 6 weeks - 10 years)",
+        "lines": [
+          "Mon - Wed: 8 a.m. - 1 p.m. & 4:30 - 7:30 p.m.",
+          "Thurs: 8 a.m. - 1 p.m. & 4:30 - 8 p.m.",
+          "Fri: 8 a.m. - 1 p.m.",
+          "Sat: 7:45 a.m. - 12 p.m.",
+          "Sun: 11:15 - 4:15 p.m."
+        ]
+      },
+      {
+        "title": "Pool Hours",
+        "lines": [
+          "The outdoor pool is closed for the season and will reopen in May 2027."
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": false,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "poyner-ymca",
+    "name": "Poyner YMCA",
+    "city": "Raleigh",
+    "address": "227 Fayetteville Street, Raleigh, NC 27601",
+    "phone": "919-591-2227",
+    "url": "https://ymcatriangle.org/locations/poyner-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/poyner-ymca",
+    "amenities": [
+      "Cycle Studio",
+      "Free Weights",
+      "Hot Yoga",
+      "Kettlebells",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "Personal Trainers",
+      "Sauna",
+      "Sled Track",
+      "Strength/Cardio Equipment"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday: 6 a.m. - 8 p.m.",
+          "Tuesday: 6 a.m. - 8 p.m.",
+          "Wednesday: 6 a.m. - 8 p.m.",
+          "Thursday: 6 a.m. - 8 p.m.",
+          "Friday: 6 a.m. - 6 p.m.",
+          "Saturday: 8 a.m. - 4 p.m.",
+          "Sunday: 11 a.m. - 4 p.m."
+        ]
+      }
+    ],
+    "hasKids": false,
+    "hasIndoor": false,
+    "hasPool": false,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "southeast-raleigh-ymca",
+    "name": "Southeast Raleigh YMCA",
+    "city": "Raleigh",
+    "address": "1436 Rock Quarry Road, Raleigh, NC 27610",
+    "phone": "919-359-9622",
+    "url": "https://ymcatriangle.org/locations/southeast-raleigh-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/southeast-raleigh-ymca/southeast-raleigh-ymca-hours-operation",
+    "amenities": [
+      "Athletic Fields",
+      "Basketball Courts",
+      "Free Weights",
+      "Gymnasium",
+      "Indoor Pickleball Courts",
+      "Indoor Track",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Outdoor Pool",
+      "Personal Trainers",
+      "Sauna",
+      "Splash Pad",
+      "Strength/Cardio Equipment",
+      "Toddler Pool"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 9 p.m.",
+          "Friday: 5 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: 11 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Kid Zone Hours",
+        "lines": [
+          "Ages 6 weeks to 10 years",
+          "Monday - Friday: 8:45 a.m. - 1 p.m.",
+          "Ages 6 weeks to 10 years",
+          "Monday - Thursday: 4:45 - 8 p.m.",
+          "Saturday: 7:45 a.m. - noon",
+          "Sunday: Closed"
+        ]
+      },
+      {
+        "title": "Outdoor Pool Hours",
+        "lines": [
+          "Monday - Friday",
+          "Lap Swim: 8 - 9:30 a.m.",
+          "Pool closed from 9:30 a.m. - 3 p.m. through October 30 (Southeast Raleigh Elementary School Swim Lessons)",
+          "Afternoon Hours (Oct. 19 - 30): 3 - 6:30 p.m. (Lap & Family Swim)",
+          "Saturday",
+          "8 - 10 a.m.: Lap Swim",
+          "10 a.m. - 5 p.m.: Family/ Open Swim",
+          "Sunday",
+          "Noon - 5 p.m.: Lap & Family Swim"
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": false,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "taylor-family-ymca",
+    "name": "Taylor Family YMCA",
+    "city": "Cary",
+    "address": "101 YMCA Dr., Cary, NC 27513",
+    "phone": "919-469-9622",
+    "url": "https://ymcatriangle.org/locations/taylor-family-ymca",
+    "hoursUrl": "https://ymcatriangle.org/locations/taylor-family-ymca/taylor-family-ymca-hours-operation",
+    "amenities": [
+      "Basketball Courts",
+      "Cycle Studio",
+      "Dynadome Pool",
+      "Free Weights",
+      "Gymnasium",
+      "Indoor Pickleball Courts",
+      "Indoor Track",
+      "Kettlebells",
+      "Kid Zone",
+      "Locker Rooms",
+      "Outdoor Pickleball Courts",
+      "Outdoor Pool",
+      "Outdoor Waterslide",
+      "Personal Trainers",
+      "Racquetball Courts",
+      "Sauna",
+      "Splash Pad",
+      "Strength/Cardio Equipment",
+      "Toddler Pool",
+      "On Demand"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday - Thursday: 5 a.m. - 9 p.m.",
+          "Friday: 5 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: 9 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Kid Zone",
+        "lines": [
+          "Ages 6 weeks to 11 years",
+          "Monday - Thursday: 8:30 a.m. - 1 p.m. & 4:30 - 8 p.m.",
+          "Friday: 8:30 a.m. - 1 p.m.",
+          "Saturday: 8:30 a.m. - noon",
+          "Sunday: 9:15 a.m. - 1 p.m.",
+          "New Kid Zone hours begin Nov. 1.: Monday - Sunday: 9 a.m. - 1 p.m., Monday - Thursday: 5 - 8 p.m."
+        ]
+      },
+      {
+        "title": "Pickleball Courts",
+        "lines": [
+          "Monday - Friday: 7 a.m. - 8 p.m.",
+          "Saturday: 7 a.m. - 6 p.m.",
+          "Sunday: 9 a.m. - 6 p.m."
+        ]
+      },
+      {
+        "title": "Lap Swim (Main Pool)",
+        "lines": [
+          "Monday: 5 a.m. - 6:30 p.m., 7 - 8:30 p.m.",
+          "Tuesday: 5 a.m. - 6 p.m., 7:30 - 8:30 p.m.",
+          "Wednesday: 5 a.m. - 6:30 p.m., 7 - 8:30 p.m.",
+          "Thursday: 5 a.m. - 6 p.m., 7:30 - 8:30 p.m.",
+          "Friday: 5 a.m. \u2013 4 p.m., 6:30 - 7:30 p.m.",
+          "Saturday: 7 a.m. \u2013 5:30 p.m.",
+          "Sunday: 9 a.m. - 5:30 p.m."
+        ]
+      },
+      {
+        "title": "Family Swim (Main Pool)",
+        "lines": [
+          "Monday - Thursday: 10:30 a.m. - 3:30 p.m.",
+          "Friday: 10:30 a.m. - 7:30 p.m.",
+          "Saturday & Sunday: 10:30 a.m. - 5:30 p.m."
+        ]
+      },
+      {
+        "title": "Oasis Pool, Toddler Pool, Waterslide and Sprayground",
+        "lines": [
+          "Closed for the season."
+        ]
+      }
+    ],
+    "hasKids": true,
+    "hasIndoor": false,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "ymca-american-tobacco",
+    "name": "YMCA at American Tobacco",
+    "city": "Durham",
+    "address": "410 Blackwell Street, Durham, NC 27701",
+    "phone": "919-956-9602",
+    "url": "https://ymcatriangle.org/locations/ymca-american-tobacco",
+    "hoursUrl": "https://ymcatriangle.org/locations/ymca-american-tobacco",
+    "amenities": [
+      "Free Weights",
+      "Kettlebells",
+      "Locker Rooms",
+      "Mind Body Studio",
+      "On Demand",
+      "Personal Trainers",
+      "Sled Track",
+      "Strength/Cardio Equipment"
+    ],
+    "sections": [
+      {
+        "title": "Branch Hours",
+        "lines": [
+          "Monday: 6 a.m. - 8 p.m.",
+          "Tuesday: 6 a.m. - 8 p.m.",
+          "Wednesday: 6 a.m. - 8 p.m.",
+          "Thursday: 6 a.m. - 8 p.m.",
+          "Friday: 6 a.m. - 5 p.m.",
+          "Saturday: ",
+          "Sunday: "
+        ]
+      }
+    ],
+    "hasKids": false,
+    "hasIndoor": false,
+    "hasPool": false,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "ymca-knightdale-station",
+    "name": "YMCA at Knightdale Station",
+    "city": "Knightdale",
+    "address": "494 Knightdale Station Run, Knightdale, NC 27545",
+    "phone": "919-266-9622",
+    "url": "https://ymcatriangle.org/locations/ymca-knightdale-station",
+    "hoursUrl": "https://ymcatriangle.org/locations/ymca-knightdale-station/ymca-knightdale-station-hours-operation",
+    "amenities": [
+      "Athletic Fields",
+      "Outdoor Pool",
+      "Outdoor Waterslide",
+      "Toddler Pool"
+    ],
+    "sections": [
+      {
+        "title": "Outdoor Pool Hours",
+        "lines": [
+          "The 2026 outdoor season has concluded. The pool will reopen in spring 2027.",
+          "See our regional indoor pool options for year-round opportunities."
+        ]
+      }
+    ],
+    "hasKids": false,
+    "hasIndoor": false,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "ymca-meadowmont",
+    "name": "YMCA at Meadowmont",
+    "city": "Chapel Hill",
+    "address": "301 Old Barn Lane, Chapel Hill, NC 27517",
+    "phone": "919-945-0640",
+    "url": "https://ymcatriangle.org/locations/ymca-meadowmont",
+    "hoursUrl": "https://ymcatriangle.org/locations/ymca-meadowmont/ymca-meadowmont-hours-operation",
+    "amenities": [
+      "Outdoor Pool",
+      "Outdoor Waterslide",
+      "Toddler Pool"
+    ],
+    "sections": [
+      {
+        "title": "Outdoor Pools",
+        "lines": [
+          "The 2026 outdoor season has concluded. The Meadowmont pools will reopen in spring 2027.",
+          "Our neighboring Chapel Hill - Carrboro YMCA offers year-round indoor pool access."
+        ]
+      }
+    ],
+    "hasKids": false,
+    "hasIndoor": false,
+    "hasPool": true,
+    "checked": "2026-10-20"
+  }
+]
