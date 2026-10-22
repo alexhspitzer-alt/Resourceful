@@ -19,3 +19,7 @@ Update `ymca-data.json` from the linked official location and hours pages. Each 
 Published private portal: https://resourceful.happyfarmer.chatgpt.site
 
 GitHub is the user-facing source repository. The Sites hosting service maintains a separate deployment mirror.
+
+## Durham libraries
+
+`dist/libraries.html` lists all seven Durham County Library branches, official hours, and branch-filtered event calendars (checked October 21, 2026). Includes a private library card number and downloadable Code 39 PNG, independently decoded to verify its contents. Preserve private repository and Site access for this personal data.

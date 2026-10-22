@@ -1,0 +1,152 @@
+[
+  {
+    "name": "North Regional Library",
+    "address": "221 Milton Road, Durham, NC 27712",
+    "phone": "919-560-0236",
+    "url": "https://durhamcountylibrary.org/location/north-regional-library/",
+    "events": "https://durhamcountylibrary.libcal.com/calendar?cid=14288&cm=1752",
+    "hours": [
+      [
+        "Monday\u2013Wednesday",
+        "9:30 a.m.\u20138 p.m."
+      ],
+      [
+        "Thursday\u2013Saturday",
+        "9:30 a.m.\u20136 p.m."
+      ],
+      [
+        "Sunday",
+        "Closed"
+      ]
+    ],
+    "checked": "2026-10-21"
+  },
+  {
+    "name": "Main Library",
+    "address": "300 N. Roxboro St., Durham, NC 27701",
+    "phone": "919-560-0100",
+    "url": "https://durhamcountylibrary.org/location/main-library/",
+    "events": "https://durhamcountylibrary.libcal.com/calendar?cid=14288&cm=1750",
+    "hours": [
+      [
+        "Monday\u2013Wednesday",
+        "9:30 a.m.\u20138 p.m."
+      ],
+      [
+        "Thursday\u2013Saturday",
+        "9:30 a.m.\u20136 p.m."
+      ],
+      [
+        "Sunday",
+        "1\u20136 p.m."
+      ]
+    ],
+    "checked": "2026-10-21"
+  },
+  {
+    "name": "Bragtown Branch Library",
+    "address": "3200 Dearborn Drive, Durham, NC 27704",
+    "phone": "919-560-0210",
+    "url": "https://durhamcountylibrary.org/location/bragtown-branch-library/",
+    "events": "https://durhamcountylibrary.libcal.com/calendar?cid=14288&cm=180",
+    "hours": [
+      [
+        "Monday\u2013Friday",
+        "10 a.m.\u20136 p.m."
+      ],
+      [
+        "Saturday\u2013Sunday",
+        "Closed"
+      ]
+    ],
+    "checked": "2026-10-21"
+  },
+  {
+    "name": "East Regional Library",
+    "address": "211 Lick Creek Lane, Durham, NC 27703",
+    "phone": "919-560-0862",
+    "url": "https://durhamcountylibrary.org/location/east-regional-library/",
+    "events": "https://durhamcountylibrary.libcal.com/calendar?cid=14288&cm=1751",
+    "hours": [
+      [
+        "Monday\u2013Wednesday",
+        "9:30 a.m.\u20138 p.m."
+      ],
+      [
+        "Thursday\u2013Saturday",
+        "9:30 a.m.\u20136 p.m."
+      ],
+      [
+        "Sunday",
+        "Closed"
+      ]
+    ],
+    "checked": "2026-10-21"
+  },
+  {
+    "name": "South Regional Library",
+    "address": "4505 S. Alston Avenue, Durham, NC 27713",
+    "phone": "919-560-7409",
+    "url": "https://durhamcountylibrary.org/location/south-regional-library/",
+    "events": "https://durhamcountylibrary.libcal.com/calendar?cid=14288&cm=1753",
+    "hours": [
+      [
+        "Monday\u2013Wednesday",
+        "9:30 a.m.\u20138 p.m."
+      ],
+      [
+        "Thursday\u2013Saturday",
+        "9:30 a.m.\u20136 p.m."
+      ],
+      [
+        "Sunday",
+        "Closed"
+      ]
+    ],
+    "checked": "2026-10-21"
+  },
+  {
+    "name": "Southwest Regional Library",
+    "address": "3605 Shannon Road, Durham, NC 27707",
+    "phone": "919-560-8593",
+    "url": "https://durhamcountylibrary.org/location/southwest-regional-library/",
+    "events": "https://durhamcountylibrary.libcal.com/calendar?cid=14288&cm=1754",
+    "hours": [
+      [
+        "Monday\u2013Wednesday",
+        "9:30 a.m.\u20138 p.m."
+      ],
+      [
+        "Thursday\u2013Saturday",
+        "9:30 a.m.\u20136 p.m."
+      ],
+      [
+        "Sunday",
+        "Closed"
+      ]
+    ],
+    "checked": "2026-10-21"
+  },
+  {
+    "name": "Stanford L. Warren Branch Library",
+    "address": "1201 Fayetteville Street, Durham, NC 27707",
+    "phone": "919-560-0270",
+    "url": "https://durhamcountylibrary.org/location/stanford-l-warren-branch-library/",
+    "events": "https://durhamcountylibrary.libcal.com/calendar?cid=14288&cm=1755",
+    "hours": [
+      [
+        "Monday\u2013Wednesday",
+        "9:30 a.m.\u20138 p.m."
+      ],
+      [
+        "Thursday\u2013Saturday",
+        "9:30 a.m.\u20136 p.m."
+      ],
+      [
+        "Sunday",
+        "Closed"
+      ]
+    ],
+    "checked": "2026-10-21"
+  }
+]
