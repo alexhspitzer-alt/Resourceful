@@ -23,3 +23,7 @@ GitHub is the user-facing source repository. The Sites hosting service maintains
 ## Durham libraries
 
 `dist/libraries.html` lists all seven Durham County Library branches, official hours, and branch-filtered event calendars (checked October 21, 2026). Includes a private library card number and downloadable Code 39 PNG, independently decoded to verify its contents. Preserve private repository and Site access for this personal data.
+
+## Christmas getaway planner
+
+`dist/christmas-getaway/index.html` is a standalone interactive comparison of the Jefferson, O.Henry, and Hotel Roanoke for Dec 4–6 versus Dec 6–8, 2026. Includes hotel imagery, day-by-day itineraries, editable room and activity budgets, and sharing controls. All rates are estimates, not live quotes, and external images require network access. Linked from the Resourceful homepage. Keep Resourceful private: existing library reference material contains personal information.
