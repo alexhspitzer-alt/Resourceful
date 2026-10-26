@@ -27,3 +27,7 @@ GitHub is the user-facing source repository. The Sites hosting service maintains
 ## Christmas getaway planner
 
 `dist/christmas-getaway/index.html` is a standalone interactive comparison of the Jefferson, O.Henry, and Hotel Roanoke for Dec 4–6 versus Dec 6–8, 2026. Includes hotel imagery, day-by-day itineraries, editable room and activity budgets, and sharing controls. All rates are estimates, not live quotes, and external images require network access. Linked from the Resourceful homepage. Keep Resourceful private: existing library reference material contains personal information.
+
+## Solutions / Glamping
+
+`dist/solutions/index.html` adds a Solutions category to the portal. `dist/solutions/glamping/index.html` compares family glamping tents, practical setup and pack-down considerations, canvas versus synthetic materials, and linked YouTube walkthroughs. Linked from the Resourceful homepage. Prices are approximate research ranges and are not updated automatically.
