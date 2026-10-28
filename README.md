@@ -31,3 +31,7 @@ GitHub is the user-facing source repository. The Sites hosting service maintains
 ## Solutions / Glamping
 
 `dist/solutions/index.html` adds a Solutions category to the portal. `dist/solutions/glamping/index.html` compares family glamping tents, practical setup and pack-down considerations, canvas versus synthetic materials, and linked YouTube walkthroughs. Linked from the Resourceful homepage. Prices are approximate research ranges and are not updated automatically.
+
+## Boar's Head Christmas retreat comparison
+
+`dist/boars-head/index.html` is a standalone, mobile-friendly page comparing three five-night holiday stays at Boar's Head Resort: Cozy Christmas Escape, Country Estate Retreat and Private Christmas Hideaway. It includes an editable family budget, a choice of December 24–29 or December 26–31, official resort imagery, Winter Wander and childcare considerations, and links to the resort's booking and room information. Five-night prices are illustrative, not live rates or confirmed availability. Linked from `dist/index.html` and the existing `dist/christmas-getaway/index.html`.
